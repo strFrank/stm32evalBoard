@@ -9,6 +9,7 @@
 *~
 _autosave-*
 *.tmp
+fp-info-cache
 *-cache.lib
 *-rescue.lib
 *-save.pro
@@ -24,3 +25,40 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+# for generic C/C++ programming
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+#*.mod
+#*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+#*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.elf
+*.bin
+*.hex
