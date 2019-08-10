@@ -12,9 +12,9 @@
   (page A4)
   (title_block
     (title "Demo Setup with Cortex M4 (STM32F446RETx)")
-    (date 2019-04-12)
-    (rev 4)
-    (comment 1 "Design and Layout complete")
+    (date 2019-08-11)
+    (rev 5)
+    (comment 1 "Fist prototype as ordered")
   )
 
   (layers
