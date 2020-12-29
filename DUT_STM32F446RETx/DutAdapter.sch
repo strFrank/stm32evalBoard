@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:DutAdapter-cache
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
@@ -3028,6 +3027,30 @@ Wire Wire Line
 Connection ~ 8800 8200
 Wire Wire Line
 	8800 8200 8850 8200
+Wire Wire Line
+	14350 1950 14350 2050
+Wire Wire Line
+	14850 2350 14750 2350
+Wire Wire Line
+	14850 2550 14750 2550
+Wire Wire Line
+	13850 2350 13950 2350
+Wire Wire Line
+	13850 2550 13950 2550
+Wire Wire Line
+	14350 2950 14350 2850
+Wire Wire Line
+	9600 9950 9700 9950
+Wire Wire Line
+	9600 9750 9700 9750
+Wire Wire Line
+	10500 9950 10600 9950
+Wire Wire Line
+	10500 9750 10600 9750
+Wire Wire Line
+	10100 10250 10100 10350
+Wire Wire Line
+	10100 9450 10100 9350
 Wire Bus Line
 	9300 8400 9300 10700
 Wire Bus Line
